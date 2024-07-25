@@ -1,6 +1,6 @@
-// 导入全局样式文件
+
 import './globals.css'
-// 导入 Next.js 的 Metadata 类型
+
 import type { Metadata } from 'next'
 // 导入 Google 字体 Inter
 import { Inter } from 'next/font/google'
